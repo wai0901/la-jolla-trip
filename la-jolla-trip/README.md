@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Jolla 之旅行程</title>
+    <style>
+        body { background-color: #000; color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; margin: 0; padding: 20px; text-align: center; }
+        .container { max-width: 800px; margin: auto; border: 2px solid #00d4ff; padding: 20px; box-shadow: 0 0 15px #00d4ff; border-radius: 10px; }
+        img { width: 100%; border-radius: 5px; margin-bottom: 20px; border: 1px solid #333; }
+        h1, h2 { color: #00d4ff; }
+        .spot { margin-bottom: 30px; text-align: left; border-bottom: 1px solid #333; padding-bottom: 10px; }
+        a { color: #00d4ff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>La Jolla 之旅行程</h1>
+        <img src="images/hero.jpg" alt="La Jolla Coast Walk">
+        
+        <div class="spot">
+<h2>1. Pinpoint Cafe</h2>
+            <p>位於 La Jolla Cove 附近，擁有極佳的視野，非常適合旅程開始前休息。</p>
+            <a href="https://maps.app.goo.gl/iFoJhFk1RgeA4wED7">Google Maps 連結</a></div>
+        </div>
+        
+        <div class="spot">
+            <h2>2. Coast Walk Trail</h2>
+            <p>San Diego 最優美的沿海懸崖步道，沿途擁有絕佳的海景。</p>
+            <a href="https://www.google.com/maps/search/?api=1&query=La+Jolla+Coast+Walk+Trail">Google Maps 連結</a>
+        </div>
+        
+        <div class="spot">
+            <h2>3. Coffee Break (TBA)</h2>
+            <p>在地特色咖啡店休閒時間。</p>
+            <a href="https://www.google.com/maps/search/?api=1&query=Coffee+Shop+near+La+Jolla+Village">Google Maps 連結</a>
+        </div>
+        
+        <div class="spot">
+            <h2>4. Top Gun House, Oceanside</h2>
+            <p>電影《捍衛戰士》經典拍攝場景。</p>
+            <a href="https://www.google.com/maps/search/?api=1&query=Top+Gun+House+Oceanside">Google Maps 連結</a>
+        </div>
+        
+        <div class="spot">
+            <h2>5. Truly Pizza, Dana Point</h2>
+            <p>在地口碑極佳的披薩店，旅程完美結尾。</p>
+            <a href="https://www.google.com/maps/search/?api=1&query=Truly+Pizza+Dana+Point">Google Maps 連結</a>
+        </div>
+    </div>
+</body>
+</html>
